@@ -56,6 +56,4 @@ def delete(id):
 
 
 connect()
-#print(search(title='The Earth'))
-#insert("The Earth", "John Tablet", 1918, 913123132)
 print(view())
